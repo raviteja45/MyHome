@@ -1,0 +1,27 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+.top-container{
+    padding: 10px;/* Space around the element*/
+    margin-left:30rem;
+    margin-right: 30rem;
+    font-size: 2rem;
+}
+.top-name-left a{
+    text-decoration: none;
+}
+.top-name-right{
+position: relative;
+max-width: 80%;/* If the max-width property is set to 100%, the image will scale down if it has to, but never scale up to be larger than its original size:*/
+}
+.middle-left{
+    padding: 70px;
+}
+
+.footer {
+    position: relative;
+    height: 100px;
+    text-align: center;
+    margin-top: -100%;
+  }
+
